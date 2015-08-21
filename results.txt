@@ -1,4 +1,5 @@
 Line 1.
 Line 2.
-Line 3, added by me.
-Line 4, merged.
+2.5
+Line 3.
+Line four
